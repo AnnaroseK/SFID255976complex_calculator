@@ -54,6 +54,5 @@ typedef struct complex_t {
 ## Resources:
 * [Structure in C: you should know in depth](https://aticleworld.com/structure-in-c/)
 
-## Solutions
-Repo link [Annarose K] (https://github.com/AnnaroseK/SFID255976complex_calculator)
+
 
